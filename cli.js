@@ -33,5 +33,3 @@ const main = async () => {
 };
 
 main();
-// psql "sslmode=require host=my-postgres-db.onrender.com dbname=mydatabase user=myusername password=mypassword port=5432"
-// PGPASSWORD=2nlMtRkuFIh7Lw0fC6F2w02saolvxjuf psql -h dpg-cmii9u5a73kc739m03k0-a.oregon-postgres.render.com -U blog_pfl2_user blog_pfl2
